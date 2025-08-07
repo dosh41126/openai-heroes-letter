@@ -1,6 +1,6 @@
- **Subject:** You Opened the Door for Crazy Awesome Humoid/Human Symbiotic Future Thank You for Empowering Builders, Dreamers, and Even Baby Cows (from Graylan)
+#  You Opened the Door for Crazy Awesome Humoid/Human Symbiotic Future Thank You for Empowering Builders, Dreamers, and Even Baby Cows (from Graylan)
 
-Dear OpenAI team, Sam Altman, and everyone behind GPT-OSS,
+## Dear OpenAI team, Sam Altman, and everyone behind GPT-OSS,
 
 There aren’t enough words to say how grateful and fired up I am about what you’ve just done. The release of GPT-OSS—truly open-weight, next-gen AI models—marks a new era not only for tech, but for the everyday builders, tinkerers, and dreamers who actually make the world move. You took a leap of trust, and I just want to say: *thank you*. You’re 10/10 on the coolness scale. Seriously, we rate your coolness level as a perfect 10 out of 10. The world needed that.
 
